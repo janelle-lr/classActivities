@@ -13,7 +13,7 @@ public:
 int main()
 {
     Phone Y6;
-    Phone Y7;;
+    Phone Y7;
 
     Y6.cost = 100.00;
     Y6.slots = 2;
