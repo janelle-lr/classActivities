@@ -1,0 +1,5 @@
+﻿  pureVirtualFunctionsEx.cpp
+C:\Users\jmoir\Desktop\CS105\excercises\aug-19-thurs\pureVirtualFunctionsEx\pureVirtualFunctionsEx.cpp(32,11): warning C4129: 's': unrecognized character escape sequence
+C:\Users\jmoir\Desktop\CS105\excercises\aug-19-thurs\pureVirtualFunctionsEx\pureVirtualFunctionsEx.cpp(51,11): warning C4129: 's': unrecognized character escape sequence
+C:\Users\jmoir\Desktop\CS105\excercises\aug-19-thurs\pureVirtualFunctionsEx\pureVirtualFunctionsEx.cpp(72,7): warning C4101: 'personType': unreferenced local variable
+  pureVirtualFunctionsEx.vcxproj -> C:\Users\jmoir\Desktop\CS105\excercises\aug-19-thurs\pureVirtualFunctionsEx\Debug\pureVirtualFunctionsEx.exe
