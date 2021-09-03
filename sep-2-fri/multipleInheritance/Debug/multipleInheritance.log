@@ -1,0 +1,4 @@
+﻿  multipleInheritance.cpp
+C:\Users\jmoir\Desktop\CS105\excercises\sep-2-fri\multipleInheritance\multipleInheritance.cpp(41,7): warning C4101: 'a': unreferenced local variable
+C:\Users\jmoir\Desktop\CS105\excercises\sep-2-fri\multipleInheritance\multipleInheritance.cpp(44,9): warning C4101: 'testCases': unreferenced local variable
+  multipleInheritance.vcxproj -> C:\Users\jmoir\Desktop\CS105\excercises\sep-2-fri\multipleInheritance\Debug\multipleInheritance.exe
